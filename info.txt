@@ -1,0 +1,20 @@
+{
+    "open": {{open}},
+    "high": {{high}},
+    "low": {{low}},
+    "close": {{close}},
+    "exchange": "{{exchange}}",
+    "ticker": "{{ticker}}",
+    "volume": {{volume}},
+
+}
+
+{
+    "open": 364.12,
+    "high": 372.32,
+    "low": 358.72,
+    "close": 370.11,
+    "exchange": "BATS",
+    "ticker": "SPY",
+    "volume": 11624,
+}
